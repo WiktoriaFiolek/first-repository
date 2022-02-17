@@ -8,3 +8,5 @@ Another small change
 yet another small change
 
 small change
+
+smaller change
